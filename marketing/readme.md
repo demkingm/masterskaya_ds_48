@@ -13,7 +13,7 @@
 ● Выполнить тестирование
 
 **Инструменты и библиотеки:**
-pandas, seaborn, HistGBM, Feature Engineering
+pandas, seaborn, HistGBM, Feature Engineering, SHAP values
 
 **Вывод**
 Создана модель на основе HistGBM. Сгенерированны новые признаки для модели. Достигнут целевой показатель метрики более 70%
